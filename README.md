@@ -3,8 +3,9 @@
 You could find examples for:
  * list,
  * tuples,
+ * dictationaries,
  * function,
- classes,
- file control,
- dictationaries,
- exceptions
+ * exceptions,
+ * file control,
+ * classes
+ 
