@@ -1,2 +1,0 @@
-writing to a file
-appending to file
