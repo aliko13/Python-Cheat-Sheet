@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[33]:
-
-
 # LISTS - stores a series of items in a particular order.
 
 # initialization
@@ -113,15 +108,9 @@ if(bikes_copy):
     print('The list is not empty ...')
 
 
-# In[9]:
-
-
 # Tuples - similar to the lists, but the items in a tuple can't be modified
 dimensions = (1920, 1080)
 dimensions
-
-
-# In[32]:
 
 
 # Dictationaries - sotres items, and each item is a key-value pair
@@ -152,10 +141,6 @@ print(dict_sample.get('val3', 20))
 
 # Deleting a key-value pair
 del dict_sample['val2']
-
-
-# In[17]:
-
 
 # Functions
 
@@ -232,9 +217,6 @@ print(answer)
 print(user)
 
 
-# In[30]:
-
-
 # Classes
 # creating class
 class Animal():
@@ -294,10 +276,6 @@ data = Data()
 desc = data.issue.getDesc()
 print(desc)
 
-
-# In[25]:
-
-
 # Files
 
 # Read file and store its lines
@@ -315,9 +293,6 @@ with open(filename, 'w') as file:
 # Appending to a file
 with open(filename, 'a') as file:
     file.write('\nappending to file')
-
-
-# In[26]:
 
 
 # Exceptions - help you to respond users when errors that occur
