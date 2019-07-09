@@ -1,9 +1,9 @@
 # Python crash course
 
 You could find examples for:
- list,
- tuples,
- function,
+ * list,
+ * tuples,
+ * function,
  classes,
  file control,
  dictationaries,
