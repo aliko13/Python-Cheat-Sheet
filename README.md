@@ -1,4 +1,4 @@
-# Python crash course
+# Python cheat sheet
 
 You could find examples for:
  * list,
